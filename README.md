@@ -8,6 +8,12 @@
 - Done my master's in Data Science at the University of East Anglia (UEA) in the U.K. I have done my dissertation on infrastructure modelling for electric vehicles using regression analysis and data preprocessing techniques. Although my adviser ridiculed my idea to be insane I can say that my project regarding mobile infrastructure units is the future. By the way, I predicted the energy demand for electric vehicles for the entire of England(region-wise) up to 2030. 
 - Also, I help many startups as a tech consultant (without any fee) and a crypto enthusiast. I'm also a good solidity developer and blockchain consultant generally guiding small companies and individuals regarding the implementation of blockchain. 
 - Presently working as one of the course directors for TechEducators. I'm mostly involved in the Ethereum tech stack and solidity smart contracts. NFTs and DEFIs are some projects I'm working on along with educating people and onboarding many newcomers to web3. Soon to announce an exciting startup in web3.
+
+
+## Social media channels
+
+[Linkedin](https://www.linkedin.com/in/vatsavaye-priyatham-varma/)
+[Twitter](https://twitter.com/Mister_V_Varma)
  
  ## Interests and skills
  
