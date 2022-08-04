@@ -1,5 +1,5 @@
  # VATSAVAYE PRIYATHAM VARMA (a.k.a V)
- ![Hero image](https://github.com/PriyathamVarma/personal-profile/blob/main/METAPRENEUR.jpg)
+ ![Hero image](https://github.com/PriyathamVarma/personal-profile/blob/main/METAPRENEUR.gif)
  
  ## About me
  
